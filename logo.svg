@@ -10,6 +10,6 @@
     <circle cx="0" cy="63" r="25" fill="url(#r)"/>
     <polygon points="0,-12.5 10.5,-6.25 10.5,6.25 0,12.5 -10.5,6.25 -10.5,-6.25" transform="translate(0 63)" fill="#0b0b0d"/>
   </g>
-  <text x="220" y="98" font-family="Oswald, Impact, 'Arial Narrow', Arial, sans-serif" font-weight="700" font-size="74" fill="#ffffff" letter-spacing="2">JOAKIM</text>
+  <text x="220" y="98" font-family="Oswald, Impact, 'Arial Narrow', Arial, sans-serif" font-weight="700" font-size="74" fill="#ffffff" letter-spacing="2">TSJ</text>
   <text x="220" y="160" font-family="Oswald, Impact, 'Arial Narrow', Arial, sans-serif" font-weight="700" font-size="62" fill="url(#r)" letter-spacing="6">MÉCA</text>
 </svg>
