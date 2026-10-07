@@ -1,0 +1,18 @@
+Site Joakim Méca (Joakim Sorlier, 16 ans, Le Portail, Piton Saint-Leu) : maquette créée le 07/10/2026.
+
+Valeurs en ligne (données par Romain le 07/10) :
+- Téléphone : 06 92 76 01 60 (+262692760160, WhatsApp wa.me/262692760160)
+- E-mail : sorlierjoakim@gmail.com
+- Lieu : Le Portail, Piton Saint-Leu, 97424 Saint-Leu
+
+À remplacer / confirmer (chercher/remplacer dans index.html) :
+- Nom commercial « Joakim Méca » (choix de Romain, à valider avec Joakim)
+- L'âge (16 ans) est écrit dans la section « Qui je suis » : à retirer si Joakim préfère
+- Disponibilités : « Sur rendez-vous, en semaine et le week-end » (à préciser)
+- Réseaux : liens Facebook / Instagram génériques à remplacer par les vraies pages
+- Citation de Joakim dans la section présentation : inventée, à valider
+- Domaine : actuellement https://capdepontromain-stack.github.io/joakim-meca/ (canonical, og:url, schéma, robots.txt, sitemap.xml)
+- Photos : banque d'images Pexels (licence libre, aucun visage) en attendant les vraies photos de Joakim
+
+Dossier photos/ = images utilisées ; dossier candidats/ = originaux téléchargés (supprimable).
+Logos : logo.svg (horizontal), logo-rond.svg (pastille), logo.png, favicon.png, apple-touch-icon.png, og-image.jpg.
